@@ -1,2 +1,2 @@
 # sparkify
-Udacity Data Science dano degree Capstone project
+Udacity Data Science nano degree Capstone project
