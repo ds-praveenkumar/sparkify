@@ -29,8 +29,9 @@ Sparkify.ipnyb: This files contains all the code related to this project.
 `Gradient Boosted Tree` has the best performance with the F1 score of 85 approx.
 Since the dataset was highly unbalanced we tried evaluating the model with under sampled dataset. but there wasn't enough improvemrnt in the model performance.
 gradient boosted Tree Evaluation Metrics
-|precision: | 0.8333333333333334|
-|recall: | 0.8695652173913043|
-|f1: |  0.851063829787234|
-
+| metric    | value  |
+|-----------|--------|
+| Precision | 0.8333 |
+| Recall    | 0.8695 |
+| F1        | 0.8510 |
 
