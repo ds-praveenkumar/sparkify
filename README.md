@@ -38,4 +38,7 @@ gradient boosted Tree Evaluation Metrics
 | F1        | 0.8510 |
 
 
+## Blog
+I have written a blog Explaining the techniques and approch for solving this Challenge [blog](https://medium.com/@princerocker22/user-churn-prediction-for-a-music-streaming-app-6f4b03898539)
+
 NOTE: the dateset `mini_sparkify_event_data.json` was large enough, so I was unable to upload it to the repo due to Github size limits . 
