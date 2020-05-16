@@ -23,7 +23,8 @@ This project uses the following software and Python libraries:
 ## Project Folder Description
 
 `Sparkify.ipnyb`: This files contains all the code related to this project.
-`.PNG`: These files contains the plots for Data Exploration
+`.PNG`: These files contains the plots for Data Exploration.
+`final_dataset.CSV`: This file contains the cleaned data with features and target Column as `label`. 
 
 ## Findings
 
@@ -37,4 +38,4 @@ gradient boosted Tree Evaluation Metrics
 | F1        | 0.8510 |
 
 
-NOTE: the dateset 'mini_sparkify_event_data.json' was large enough, so I was unable to upload it to the repo due to Github size limits . 
+NOTE: the dateset `mini_sparkify_event_data.json` was large enough, so I was unable to upload it to the repo due to Github size limits . 
